@@ -1,0 +1,3 @@
+# IntelliJ (ignore most things)
+.idea/**
+*.iml
